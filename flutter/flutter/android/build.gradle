@@ -27,7 +27,7 @@ apply plugin: "kotlin-android"
 android {
     namespace = "com.arthenica.ffmpegkit.flutter"
 
-    compileSdk = 35
+    compileSdk = 34
 
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_17
